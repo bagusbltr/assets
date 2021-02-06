@@ -1,0 +1,10 @@
+{
+    "name": "Intan Token",
+    "symbol": "INTAN",
+    "type": "TRC20",
+    "decimals": 8,
+    "description": "Let's help cancer patients",
+    "website": "https://intantoken.my.id",
+    "explorer": "https://tronscan.io/#/token/TWmXBos24PcPaLQGfYRjFBEHhChD1NQTCU",
+    "Smart contract": "TWmXBos24PcPaLQGfYRjFBEHhChD1NQTCU",
+}
